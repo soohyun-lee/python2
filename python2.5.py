@@ -4,3 +4,4 @@ for num in a:
     if num not in new_list:
         new_list.append(num)
 print(new_list)
+ # [1,2,3,4,5] 중복없이
